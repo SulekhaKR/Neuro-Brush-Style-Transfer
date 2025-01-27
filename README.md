@@ -33,7 +33,8 @@ A Neural Style Transfer project leveraging deep learning techniques to merge the
   ```bash
   pip install torch torchvision matplotlib pillow
 ##Setup Instructions
-  -**Clone the Repository:
+-Clone the Repository:
+ ```bash
   git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
 
@@ -61,7 +62,7 @@ After running the notebook, the stylized image will be saved as output.jpg in th
 2. Add `requirements.txt` if it's not already created.
 3. Include example images (`content.jpg`, `style.jpg`, and `output.jpg`) in the repository.
 
-Let me know if you need help with any of these steps!
+
 
 
 
