@@ -36,11 +36,14 @@ A Neural Style Transfer project leveraging deep learning techniques to merge the
   -**Clone the Repository:
   git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
--**Install all required libraries using pip:
+
+##Install all required libraries using pip:
 pip install -r requirements.txt
--**Run the Notebook: Open the Jupyter Notebook file (NeuroBrush Style Transfer.ipynb) in Jupyter Notebook or Jupyter Lab:
+
+##Run the Notebook: Open the Jupyter Notebook file (NeuroBrush Style Transfer.ipynb) in Jupyter Notebook or Jupyter Lab:
 jupyter notebook NeuroBrush\ Style\ Transfer.ipynb
--**Usage
+
+##Usage
 Input Preparation:
 
 Place your content image (e.g., content.jpg) and style image (e.g., style.jpg) in the working directory.
